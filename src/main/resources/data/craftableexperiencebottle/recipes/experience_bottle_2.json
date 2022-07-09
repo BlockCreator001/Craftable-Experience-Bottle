@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "A": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 8
+  }
+}
